@@ -1,4 +1,4 @@
-# Relatorio Vagas
+# Relatório de Vagas
 ## Relatório completo sobre o perfil ideal para um desenvolvedor front-end
 
 🤔  Como é o perfil ideal para o Desenvolvedor Front-End em 2025?
